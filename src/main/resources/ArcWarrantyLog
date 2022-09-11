@@ -1,0 +1,476 @@
+2022-09-08 14:58:16 INFO  arcteryxWarrantyMenu:13 - App Started
+2022-09-08 14:58:21 INFO  arcteryxWarrantyMenu:23 - ExitSelected
+2022-09-08 14:58:21 INFO  arcteryxWarrantyMenu:26 - App Exited
+2022-09-08 19:19:41 INFO  arcteryxWarrantyMenu:13 - App Started
+2022-09-08 19:19:46 INFO  arcteryxWarrantyMenu:23 - CustomerSelected
+2022-09-08 19:19:47 INFO  Request:14 - New Warranty Created
+2022-09-08 19:19:47 INFO  Cancel:12 - Deleted Warranty
+2022-09-08 19:19:47 INFO  Status:12 - Status Search
+2022-09-08 19:19:47 INFO  customerMenu:24 - Customer Menu Selected
+2022-09-08 19:20:51 INFO  arcteryxWarrantyMenu:13 - App Started
+2022-09-08 19:20:57 INFO  arcteryxWarrantyMenu:23 - CustomerSelected
+2022-09-08 19:20:58 INFO  Request:14 - New Warranty Created
+2022-09-08 19:20:58 INFO  Cancel:12 - Deleted Warranty
+2022-09-08 19:20:58 INFO  Status:12 - Status Search
+2022-09-08 19:20:58 INFO  customerMenu:24 - Customer Menu Selected
+2022-09-08 19:22:04 INFO  arcteryxWarrantyMenu:13 - App Started
+2022-09-08 19:22:14 INFO  arcteryxWarrantyMenu:23 - CustomerSelected
+2022-09-08 19:22:15 INFO  Request:14 - New Warranty Created
+2022-09-08 19:22:15 INFO  Cancel:12 - Deleted Warranty
+2022-09-08 19:22:15 INFO  Status:12 - Status Search
+2022-09-08 19:22:15 INFO  customerMenu:24 - Customer Menu Selected
+2022-09-08 19:23:27 INFO  arcteryxWarrantyMenu:13 - App Started
+2022-09-08 19:23:32 INFO  arcteryxWarrantyMenu:23 - CustomerSelected
+2022-09-08 19:23:33 INFO  Request:14 - New Warranty Created
+2022-09-08 19:23:33 INFO  Cancel:12 - Deleted Warranty
+2022-09-08 19:23:33 INFO  Status:12 - Status Search
+2022-09-08 19:23:33 INFO  customerMenu:24 - Customer Menu Selected
+2022-09-08 19:23:40 INFO  customerMenu:33 - Customer Menu Exited
+2022-09-08 19:24:01 INFO  arcteryxWarrantyMenu:23 - ExitSelected
+2022-09-08 19:24:01 INFO  arcteryxWarrantyMenu:26 - App Exited
+2022-09-08 19:24:04 INFO  arcteryxWarrantyMenu:13 - App Started
+2022-09-08 19:24:11 INFO  arcteryxWarrantyMenu:23 - CustomerSelected
+2022-09-08 19:24:12 INFO  Request:14 - New Warranty Created
+2022-09-08 19:24:12 INFO  Cancel:12 - Deleted Warranty
+2022-09-08 19:24:12 INFO  Status:12 - Status Search
+2022-09-08 19:24:12 INFO  customerMenu:24 - Customer Menu Selected
+2022-09-08 19:24:35 INFO  customerMenu:33 - Customer Menu Exited
+2022-09-08 19:24:37 INFO  arcteryxWarrantyMenu:23 - ExitSelected
+2022-09-08 19:24:37 INFO  arcteryxWarrantyMenu:26 - App Exited
+2022-09-08 19:25:16 INFO  arcteryxWarrantyMenu:13 - App Started
+2022-09-08 19:25:20 INFO  arcteryxWarrantyMenu:23 - CustomerSelected
+2022-09-08 19:25:21 INFO  Request:14 - New Warranty Created
+2022-09-08 19:25:21 INFO  Cancel:12 - Deleted Warranty
+2022-09-08 19:25:21 INFO  Status:12 - Status Search
+2022-09-08 19:25:21 INFO  customerMenu:24 - Customer Menu Selected
+2022-09-08 19:32:00 INFO  arcteryxWarrantyMenu:13 - App Started
+2022-09-08 19:32:18 INFO  arcteryxWarrantyMenu:23 - CustomerSelected
+2022-09-08 19:32:19 INFO  Request:14 - New Warranty Created
+2022-09-08 19:32:19 INFO  Cancel:12 - Deleted Warranty
+2022-09-08 19:32:19 INFO  Status:12 - Status Search
+2022-09-08 19:32:19 INFO  customerMenu:24 - Customer Menu Selected
+2022-09-09 09:30:53 INFO  arcteryxWarrantyMenu:13 - App Started
+2022-09-09 09:31:20 INFO  arcteryxWarrantyMenu:23 - CustomerSelected
+2022-09-09 09:31:22 INFO  Request:14 - New Warranty Created
+2022-09-09 09:31:22 INFO  Cancel:12 - Deleted Warranty
+2022-09-09 09:31:22 INFO  Status:12 - Status Search
+2022-09-09 09:31:22 INFO  customerMenu:24 - Customer Menu Selected
+2022-09-09 09:35:31 INFO  arcteryxWarrantyMenu:13 - App Started
+2022-09-09 09:36:04 INFO  arcteryxWarrantyMenu:23 - CustomerSelected
+2022-09-09 09:36:05 INFO  Request:14 - New Warranty Created
+2022-09-09 09:36:05 INFO  Cancel:12 - Deleted Warranty
+2022-09-09 09:36:05 INFO  Status:12 - Status Search
+2022-09-09 09:36:05 INFO  customerMenu:24 - Customer Menu Selected
+2022-09-09 09:39:02 INFO  arcteryxWarrantyMenu:13 - App Started
+2022-09-09 09:39:10 INFO  arcteryxWarrantyMenu:23 - CustomerSelected
+2022-09-09 09:39:10 INFO  Request:14 - New Warranty Created
+2022-09-09 09:39:10 INFO  Cancel:12 - Deleted Warranty
+2022-09-09 09:39:10 INFO  Status:12 - Status Search
+2022-09-09 09:39:10 INFO  customerMenu:24 - Customer Menu Selected
+2022-09-09 09:40:03 INFO  customerMenu:33 - Customer Menu Exited
+2022-09-09 09:40:14 INFO  arcteryxWarrantyMenu:23 - ExitSelected
+2022-09-09 09:40:14 INFO  arcteryxWarrantyMenu:26 - App Exited
+2022-09-09 09:41:18 INFO  arcteryxWarrantyMenu:13 - App Started
+2022-09-09 09:41:29 INFO  arcteryxWarrantyMenu:23 - AdminSelected
+2022-09-09 09:41:58 INFO  adminLoginMenu:28 - Admin Menu Exited
+2022-09-09 09:42:06 INFO  arcteryxWarrantyMenu:23 - ExitSelected
+2022-09-09 09:42:06 INFO  arcteryxWarrantyMenu:26 - App Exited
+2022-09-09 09:43:38 INFO  arcteryxWarrantyMenu:14 - App Started
+2022-09-09 09:43:43 INFO  arcteryxWarrantyMenu:25 - AllSelected
+2022-09-09 09:44:03 INFO  arcteryxWarrantyMenu:14 - App Started
+2022-09-09 09:44:09 INFO  arcteryxWarrantyMenu:25 - AllSelected
+2022-09-09 09:44:23 INFO  arcteryxWarrantyMenu:14 - App Started
+2022-09-09 09:44:27 INFO  arcteryxWarrantyMenu:25 - AllSelected
+2022-09-09 09:50:03 INFO  arcteryxWarrantyMenu:14 - App Started
+2022-09-09 09:50:08 INFO  arcteryxWarrantyMenu:25 - AllSelected
+2022-09-09 10:12:13 INFO  arcteryxWarrantyMenu:14 - App Started
+2022-09-09 10:12:17 INFO  arcteryxWarrantyMenu:25 - AllSelected
+2022-09-09 10:15:16 INFO  arcteryxWarrantyMenu:14 - App Started
+2022-09-09 10:15:23 INFO  arcteryxWarrantyMenu:25 - AllSelected
+2022-09-09 10:17:48 INFO  arcteryxWarrantyMenu:25 - ExitSelected
+2022-09-09 10:17:48 INFO  arcteryxWarrantyMenu:28 - App Exited
+2022-09-09 10:24:51 INFO  arcteryxWarrantyMenu:14 - App Started
+2022-09-09 10:24:56 INFO  arcteryxWarrantyMenu:25 - AllSelected
+2022-09-09 10:25:04 INFO  arcteryxWarrantyMenu:25 - ExitSelected
+2022-09-09 10:25:04 INFO  arcteryxWarrantyMenu:28 - App Exited
+2022-09-09 10:25:33 INFO  arcteryxWarrantyMenu:14 - App Started
+2022-09-09 10:25:46 INFO  arcteryxWarrantyMenu:25 - AllSelected
+2022-09-09 10:25:50 INFO  arcteryxWarrantyMenu:25 - ExitSelected
+2022-09-09 10:25:50 INFO  arcteryxWarrantyMenu:28 - App Exited
+2022-09-09 10:27:23 INFO  arcteryxWarrantyMenu:14 - App Started
+2022-09-09 10:27:32 INFO  arcteryxWarrantyMenu:25 - AllSelected
+2022-09-09 10:31:42 INFO  arcteryxWarrantyMenu:14 - App Started
+2022-09-09 10:31:46 INFO  arcteryxWarrantyMenu:25 - AllSelected
+2022-09-09 10:35:50 INFO  arcteryxWarrantyMenu:14 - App Started
+2022-09-09 10:35:54 INFO  arcteryxWarrantyMenu:25 - AllSelected
+2022-09-09 10:35:58 INFO  arcteryxWarrantyMenu:25 - ExitSelected
+2022-09-09 10:35:58 INFO  arcteryxWarrantyMenu:28 - App Exited
+2022-09-09 10:43:52 INFO  arcteryxWarrantyMenu:14 - App Started
+2022-09-09 10:43:59 INFO  arcteryxWarrantyMenu:25 - AllSelected
+2022-09-09 10:46:22 INFO  arcteryxWarrantyMenu:14 - App Started
+2022-09-09 10:46:28 INFO  arcteryxWarrantyMenu:25 - AllSelected
+2022-09-09 11:08:17 INFO  arcteryxWarrantyMenu:25 - ExitSelected
+2022-09-09 11:08:17 INFO  arcteryxWarrantyMenu:28 - App Exited
+2022-09-09 11:08:51 INFO  arcteryxWarrantyMenu:14 - App Started
+2022-09-09 11:09:09 INFO  arcteryxWarrantyMenu:25 - AllSelected
+2022-09-09 11:10:49 INFO  arcteryxWarrantyMenu:14 - App Started
+2022-09-09 11:10:54 INFO  arcteryxWarrantyMenu:25 - AllSelected
+2022-09-09 11:12:44 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-09 11:12:44 INFO  Status:14 - Status Search
+2022-09-09 11:12:48 INFO  arcteryxWarrantyMenu:26 - AllSelected
+2022-09-09 11:13:00 INFO  arcteryxWarrantyMenu:26 - ExitSelected
+2022-09-09 11:13:00 INFO  arcteryxWarrantyMenu:29 - App Exited
+2022-09-09 15:01:45 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-09 15:01:46 INFO  Status:14 - Status Search
+2022-09-09 15:01:53 INFO  arcteryxWarrantyMenu:26 - Warranty SearchSelected
+2022-09-09 15:02:02 INFO  arcteryxWarrantyMenu:26 - ExitSelected
+2022-09-09 15:02:02 INFO  arcteryxWarrantyMenu:29 - App Exited
+2022-09-09 15:08:50 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-09 15:08:51 INFO  View:14 - Status Search
+2022-09-09 15:08:55 INFO  arcteryxWarrantyMenu:26 - CustomerSelected
+2022-09-09 15:08:55 INFO  Request:14 - New Warranty Created
+2022-09-09 15:08:55 INFO  Cancel:12 - Deleted Warranty
+2022-09-09 15:08:55 INFO  View:14 - Status Search
+2022-09-09 15:08:55 INFO  customerMenu:21 - Customer Menu Selected
+2022-09-09 15:09:10 INFO  customerMenu:30 - Customer Menu Exited
+2022-09-09 15:09:12 INFO  arcteryxWarrantyMenu:26 - ExitSelected
+2022-09-09 15:09:12 INFO  arcteryxWarrantyMenu:29 - App Exited
+2022-09-09 16:34:20 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-09 16:34:20 INFO  View:14 - Status Search
+2022-09-09 16:34:25 INFO  arcteryxWarrantyMenu:26 - AdminSelected
+2022-09-09 16:38:56 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-09 16:38:56 INFO  View:14 - Status Search
+2022-09-09 16:39:01 INFO  arcteryxWarrantyMenu:26 - AdminSelected
+2022-09-09 16:39:17 INFO  adminLoginMenu:30 - Admin Log In: kyra.qiu@arcteryx.com
+2022-09-09 16:41:28 INFO  adminLoginMenu:30 - Admin Log In: kyra.qiu@arcteryx.com
+2022-09-09 16:44:21 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-09 16:44:22 INFO  View:14 - Status Search
+2022-09-09 16:44:28 INFO  arcteryxWarrantyMenu:26 - AdminSelected
+2022-09-09 16:44:45 INFO  adminLoginMenu:30 - Admin Log In: kyra.qiu@arcteryx.com
+2022-09-09 16:45:32 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-09 16:45:33 INFO  View:14 - Status Search
+2022-09-09 16:45:38 INFO  arcteryxWarrantyMenu:26 - AdminSelected
+2022-09-09 16:45:38 INFO  Admin:13 - Admin Login
+2022-09-09 16:45:52 INFO  adminLoginMenu:31 - Admin Log In: kyra.qiu@arcteryx.com
+2022-09-09 16:46:33 INFO  adminLoginMenu:31 - Admin Log In: kyra.qiu@arcteryx.com
+2022-09-09 16:47:04 INFO  adminLoginMenu:31 - Admin Log In: kyra.qiu@arcteryx.com
+2022-09-09 16:49:17 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-09 16:49:18 INFO  View:14 - Status Search
+2022-09-09 16:49:25 INFO  arcteryxWarrantyMenu:26 - AdminSelected
+2022-09-09 16:49:25 INFO  Admin:13 - Admin Login
+2022-09-09 16:49:40 INFO  adminLoginMenu:30 - Admin Log In: kyra.qiu@arcteryx.com
+2022-09-09 16:54:53 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-09 16:54:53 INFO  View:14 - Status Search
+2022-09-09 16:54:59 INFO  arcteryxWarrantyMenu:26 - AdminSelected
+2022-09-09 16:54:59 INFO  Admin:13 - Admin Login
+2022-09-09 16:55:10 INFO  adminLoginMenu:31 - Admin Log In: kyra.qiu@arcteryx.com
+2022-09-09 16:56:13 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-09 16:56:13 INFO  View:14 - Status Search
+2022-09-09 16:56:20 INFO  arcteryxWarrantyMenu:26 - AdminSelected
+2022-09-09 16:56:20 INFO  Admin:13 - Admin Login
+2022-09-09 16:56:31 INFO  adminLoginMenu:32 - Admin Log In: admin
+2022-09-09 16:56:53 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-09 16:56:54 INFO  View:14 - Status Search
+2022-09-09 16:56:58 INFO  arcteryxWarrantyMenu:26 - AdminSelected
+2022-09-09 16:56:58 INFO  Admin:13 - Admin Login
+2022-09-09 16:57:07 INFO  adminLoginMenu:31 - Admin Log In: admin
+2022-09-09 16:59:30 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-09 16:59:31 INFO  View:14 - Status Search
+2022-09-09 16:59:36 INFO  arcteryxWarrantyMenu:26 - adminSelected
+2022-09-09 16:59:38 INFO  arcteryxWarrantyMenu:26 - AdminSelected
+2022-09-09 16:59:38 INFO  Admin:13 - Admin Login
+2022-09-09 16:59:48 INFO  adminLoginMenu:31 - Admin Log In:  admin
+2022-09-09 16:59:56 INFO  adminLoginMenu:31 - Admin Log In: admin
+2022-09-09 17:01:27 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-09 17:01:27 INFO  View:14 - Status Search
+2022-09-09 17:01:32 INFO  arcteryxWarrantyMenu:26 - AdminSelected
+2022-09-09 17:01:32 INFO  Admin:13 - Admin Login
+2022-09-09 17:03:28 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-09 17:03:28 INFO  View:14 - Status Search
+2022-09-09 17:03:32 INFO  arcteryxWarrantyMenu:26 - AdminSelected
+2022-09-09 17:03:32 INFO  Admin:13 - Admin Login
+2022-09-09 17:03:42 INFO  adminLoginMenu:32 - Admin Log In: admin
+2022-09-09 17:09:58 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-09 17:09:59 INFO  View:14 - Status Search
+2022-09-09 17:10:03 INFO  arcteryxWarrantyMenu:26 - AdminSelected
+2022-09-09 17:10:03 INFO  Admin:13 - Admin Login
+2022-09-09 17:10:13 INFO  adminLoginMenu:35 - Admin Log In: admin
+2022-09-09 17:10:37 INFO  adminLoginMenu:35 - Admin Log In: admin
+2022-09-09 17:11:38 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-09 17:11:38 INFO  View:14 - Status Search
+2022-09-09 17:11:43 INFO  arcteryxWarrantyMenu:26 - AdminSelected
+2022-09-09 17:11:43 INFO  Admin:13 - Admin Login
+2022-09-09 17:11:53 INFO  adminLoginMenu:35 - Admin Log In: admin
+2022-09-09 17:11:58 INFO  adminLoginMenu:40 - Admin Menu Exited
+2022-09-09 17:12:00 INFO  arcteryxWarrantyMenu:26 - ExitSelected
+2022-09-09 17:12:00 INFO  arcteryxWarrantyMenu:29 - App Exited
+2022-09-09 17:12:30 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-09 17:12:31 INFO  View:14 - Status Search
+2022-09-09 17:12:34 INFO  arcteryxWarrantyMenu:26 - AdminSelected
+2022-09-09 17:12:34 INFO  Admin:13 - Admin Login
+2022-09-09 17:16:04 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-09 17:16:05 INFO  View:14 - Status Search
+2022-09-09 17:16:14 INFO  arcteryxWarrantyMenu:26 - AdminSelected
+2022-09-09 17:16:14 INFO  Admin:13 - Admin Login
+2022-09-09 17:16:32 INFO  adminLoginMenu:33 - Admin Log In: admin
+2022-09-09 17:17:26 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-09 17:17:27 INFO  View:14 - Status Search
+2022-09-09 17:17:35 INFO  arcteryxWarrantyMenu:26 - AdminSelected
+2022-09-09 17:17:35 INFO  Admin:13 - Admin Login
+2022-09-09 17:18:45 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-09 17:18:46 INFO  View:14 - Status Search
+2022-09-09 17:18:50 INFO  arcteryxWarrantyMenu:26 - AdminSelected
+2022-09-09 17:18:50 INFO  Admin:13 - Admin Login
+2022-09-09 17:18:53 INFO  View:14 - Status Search
+2022-09-09 17:18:53 INFO  Update:12 - Status Updated
+2022-09-09 17:19:16 INFO  adminMenu:43 - Admin Logged Out
+2022-09-09 17:19:19 INFO  adminLoginMenu:38 - Admin Menu Exited
+2022-09-09 17:27:00 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-09 17:27:01 INFO  View:14 - Status Search
+2022-09-09 17:27:06 INFO  arcteryxWarrantyMenu:26 - AdminSelected
+2022-09-09 17:27:06 INFO  Admin:13 - Admin Login
+2022-09-09 17:30:19 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-09 17:30:20 INFO  View:14 - Status Search
+2022-09-09 17:30:24 INFO  arcteryxWarrantyMenu:26 - AdminSelected
+2022-09-09 17:30:24 INFO  Admin:13 - Admin Login
+2022-09-09 17:30:32 INFO  adminLoginMenu:34 - Admin Log In: admin
+2022-09-09 17:35:35 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-09 17:35:35 INFO  View:14 - Status Search
+2022-09-09 17:35:41 INFO  arcteryxWarrantyMenu:26 - AdminSelected
+2022-09-09 17:35:41 INFO  Admin:13 - Admin Login
+2022-09-09 17:35:49 INFO  adminLoginMenu:36 - Admin Log In: admin
+2022-09-09 18:33:28 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-09 18:33:28 INFO  View:14 - Status Search
+2022-09-09 18:33:32 INFO  arcteryxWarrantyMenu:26 - AdminSelected
+2022-09-09 18:33:32 INFO  Admin:13 - Admin Login
+2022-09-09 18:33:41 INFO  adminLoginMenu:35 - Admin Log In: admin
+2022-09-09 20:58:22 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-09 20:58:23 INFO  View:14 - Status Search
+2022-09-09 20:58:27 INFO  arcteryxWarrantyMenu:26 - AdminSelected
+2022-09-09 20:58:27 INFO  Admin:13 - Admin Login
+2022-09-09 20:58:36 INFO  adminLoginMenu:38 - Admin Log In: admin
+2022-09-09 20:58:56 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-09 20:58:57 INFO  View:14 - Status Search
+2022-09-09 20:59:00 INFO  arcteryxWarrantyMenu:26 - AdminSelected
+2022-09-09 20:59:00 INFO  Admin:13 - Admin Login
+2022-09-09 20:59:07 INFO  adminLoginMenu:38 - Admin Log In: admin
+2022-09-09 20:59:29 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-09 20:59:29 INFO  View:14 - Status Search
+2022-09-09 20:59:34 INFO  arcteryxWarrantyMenu:26 - AdminSelected
+2022-09-09 20:59:34 INFO  Admin:13 - Admin Login
+2022-09-09 20:59:41 INFO  adminLoginMenu:39 - Admin Log In: admin
+2022-09-09 21:08:06 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-09 21:08:06 INFO  View:14 - Status Search
+2022-09-09 21:08:25 INFO  arcteryxWarrantyMenu:26 - AdminSelected
+2022-09-09 21:08:25 INFO  Admin:13 - Admin Login
+2022-09-09 21:08:36 INFO  adminLoginMenu:35 - Admin Log In: admin
+2022-09-09 21:08:53 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-09 21:08:54 INFO  View:14 - Status Search
+2022-09-09 21:08:59 INFO  arcteryxWarrantyMenu:26 - AdminSelected
+2022-09-09 21:08:59 INFO  Admin:13 - Admin Login
+2022-09-09 21:09:07 INFO  adminLoginMenu:35 - Admin Log In: admin
+2022-09-09 21:11:23 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-09 21:11:23 INFO  View:14 - Status Search
+2022-09-09 21:11:30 INFO  arcteryxWarrantyMenu:26 - AdminSelected
+2022-09-09 21:11:30 INFO  Admin:13 - Admin Login
+2022-09-09 21:11:38 INFO  adminLoginMenu:35 - Admin Log In: admin1
+2022-09-09 21:12:25 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-09 21:12:25 INFO  View:14 - Status Search
+2022-09-09 21:12:30 INFO  arcteryxWarrantyMenu:26 - AdminSelected
+2022-09-09 21:12:30 INFO  Admin:13 - Admin Login
+2022-09-09 21:12:42 INFO  View:14 - Status Search
+2022-09-09 21:12:42 INFO  Update:12 - Status Updated
+2022-09-09 21:18:01 INFO  adminMenu:43 - Admin Logged Out
+2022-09-09 21:18:01 INFO  adminLoginMenu:35 - Admin Log In: admin1
+2022-09-09 21:18:12 INFO  adminLoginMenu:35 - Admin Log In: admin00
+2022-09-09 21:22:17 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-09 21:22:17 INFO  View:14 - Status Search
+2022-09-09 21:22:21 INFO  arcteryxWarrantyMenu:26 - AdminSelected
+2022-09-09 21:22:21 INFO  Admin:13 - Admin Login
+2022-09-09 21:22:32 INFO  adminLoginMenu:36 - Admin Log In: admin00
+2022-09-09 21:36:09 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-09 21:36:09 INFO  View:14 - Status Search
+2022-09-09 21:36:19 INFO  arcteryxWarrantyMenu:26 - AdminSelected
+2022-09-09 21:36:19 INFO  Admin:13 - Admin Login
+2022-09-09 21:36:32 INFO  adminLoginMenu:39 - Admin Log In: admin00
+2022-09-09 21:36:52 INFO  View:14 - Status Search
+2022-09-09 21:36:52 INFO  Update:12 - Status Updated
+2022-09-09 21:40:43 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-09 21:40:44 INFO  View:14 - Status Search
+2022-09-09 21:40:48 INFO  arcteryxWarrantyMenu:26 - AdminSelected
+2022-09-09 21:40:48 INFO  Admin:13 - Admin Login
+2022-09-09 21:40:56 INFO  adminLoginMenu:39 - Admin Log In: admin00
+2022-09-10 19:36:45 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-10 19:36:48 INFO  View:14 - Status Search
+2022-09-10 19:36:53 INFO  arcteryxWarrantyMenu:26 - AdminSelected
+2022-09-10 19:36:53 INFO  Admin:13 - Admin Login
+2022-09-10 19:37:27 INFO  adminLoginMenu:41 - Admin Log In: admin00
+2022-09-10 19:46:38 INFO  View:14 - Status Search
+2022-09-10 19:46:39 INFO  Update:12 - Status Updated
+2022-09-10 19:46:43 INFO  adminMenu:43 - Admin Logged Out
+2022-09-10 19:46:43 INFO  adminLoginMenu:41 - Admin Log In: admin01
+2022-09-10 19:46:45 INFO  adminLoginMenu:45 - Admin Menu Exited
+2022-09-10 19:46:50 INFO  arcteryxWarrantyMenu:26 - ExitSelected
+2022-09-10 19:46:50 INFO  arcteryxWarrantyMenu:29 - App Exited
+2022-09-10 20:01:50 INFO  arcteryxWarrantyMenu:23 - App Started
+2022-09-10 20:01:52 INFO  View:14 - Status Search
+2022-09-10 20:02:47 INFO  arcteryxWarrantyMenu:23 - App Started
+2022-09-10 20:02:48 INFO  View:14 - Status Search
+2022-09-10 20:04:34 INFO  arcteryxWarrantyMenu:23 - App Started
+2022-09-10 20:04:35 INFO  View:14 - Status Search
+2022-09-10 20:04:41 INFO  arcteryxWarrantyMenu:34 - AdminSelected
+2022-09-10 20:04:41 INFO  Admin:13 - Admin Login
+2022-09-10 20:04:51 INFO  View:14 - Status Search
+2022-09-10 20:04:51 INFO  Update:12 - Status Updated
+2022-09-10 20:04:54 INFO  adminMenu:43 - Admin Logged Out
+2022-09-10 20:04:54 INFO  adminLoginMenu:41 - Admin Log In: admin
+2022-09-10 20:06:08 INFO  adminLoginMenu:45 - Admin Menu Exited
+2022-09-10 20:06:12 INFO  arcteryxWarrantyMenu:34 - ExitSelected
+2022-09-10 20:06:12 INFO  arcteryxWarrantyMenu:37 - App Exited
+2022-09-10 20:58:56 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-10 20:58:57 INFO  View:14 - Status Search
+2022-09-10 20:59:01 INFO  arcteryxWarrantyMenu:26 - AdminSelected
+2022-09-10 20:59:01 INFO  Admin:13 - Admin Login
+2022-09-10 20:59:11 INFO  View:14 - Status Search
+2022-09-10 20:59:11 INFO  Update:12 - Status Updated
+2022-09-10 21:01:11 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-10 21:01:11 INFO  View:14 - Status Search
+2022-09-10 21:01:20 INFO  arcteryxWarrantyMenu:26 - AdminSelected
+2022-09-10 21:01:20 INFO  Admin:13 - Admin Login
+2022-09-10 21:01:29 INFO  View:14 - Status Search
+2022-09-10 21:01:29 INFO  Update:12 - Status Updated
+2022-09-10 21:04:28 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-10 21:04:33 INFO  arcteryxWarrantyMenu:25 - AdminSelected
+2022-09-10 21:04:34 INFO  Admin:13 - Admin Login
+2022-09-10 21:04:42 INFO  View:14 - Status Search
+2022-09-10 21:04:42 INFO  Update:12 - Status Updated
+2022-09-10 21:04:49 INFO  adminLoginMenu:33 - Admin Log In: admin
+2022-09-10 21:06:49 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-10 21:06:54 INFO  arcteryxWarrantyMenu:25 - AdminSelected
+2022-09-10 21:06:54 INFO  Admin:13 - Admin Login
+2022-09-10 21:07:02 INFO  View:14 - Status Search
+2022-09-10 21:07:02 INFO  Update:12 - Status Updated
+2022-09-10 21:10:36 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-10 21:10:41 INFO  arcteryxWarrantyMenu:25 - AdminSelected
+2022-09-10 21:10:42 INFO  Admin:13 - Admin Login
+2022-09-10 21:10:49 INFO  View:14 - Status Search
+2022-09-10 21:10:49 INFO  Update:12 - Status Updated
+2022-09-10 21:11:43 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-10 21:12:03 INFO  arcteryxWarrantyMenu:25 - AdminSelected
+2022-09-10 21:12:03 INFO  Admin:13 - Admin Login
+2022-09-10 21:12:12 INFO  View:14 - Status Search
+2022-09-10 21:12:12 INFO  Update:12 - Status Updated
+2022-09-10 21:13:37 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-10 21:13:44 INFO  arcteryxWarrantyMenu:25 - AdminSelected
+2022-09-10 21:13:45 INFO  Admin:13 - Admin Login
+2022-09-10 21:13:53 INFO  View:14 - Status Search
+2022-09-10 21:13:53 INFO  Update:12 - Status Updated
+2022-09-10 21:14:51 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-10 21:14:58 INFO  arcteryxWarrantyMenu:25 - AdminSelected
+2022-09-10 21:14:59 INFO  Admin:13 - Admin Login
+2022-09-10 21:15:07 INFO  View:14 - Status Search
+2022-09-10 21:15:07 INFO  Update:12 - Status Updated
+2022-09-10 21:15:39 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-10 21:15:50 INFO  arcteryxWarrantyMenu:25 - AdminSelected
+2022-09-10 21:15:51 INFO  Admin:13 - Admin Login
+2022-09-10 21:16:00 INFO  View:14 - Status Search
+2022-09-10 21:16:00 INFO  Update:12 - Status Updated
+2022-09-10 21:16:58 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-10 21:17:04 INFO  arcteryxWarrantyMenu:25 - AdminSelected
+2022-09-10 21:17:04 INFO  Admin:13 - Admin Login
+2022-09-10 21:17:18 INFO  View:14 - Status Search
+2022-09-10 21:17:18 INFO  Update:12 - Status Updated
+2022-09-10 21:19:37 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-10 21:19:42 INFO  arcteryxWarrantyMenu:25 - AdminSelected
+2022-09-10 21:19:43 INFO  Admin:13 - Admin Login
+2022-09-10 21:19:51 INFO  View:14 - Status Search
+2022-09-10 21:19:51 INFO  Update:12 - Status Updated
+2022-09-10 21:21:21 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-10 21:21:28 INFO  arcteryxWarrantyMenu:25 - AdminSelected
+2022-09-10 21:21:28 INFO  Admin:13 - Admin Login
+2022-09-10 21:21:36 INFO  View:14 - Status Search
+2022-09-10 21:21:36 INFO  Update:12 - Status Updated
+2022-09-10 21:24:21 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-10 21:24:25 INFO  arcteryxWarrantyMenu:25 - AdminSelected
+2022-09-10 21:24:26 INFO  Admin:13 - Admin Login
+2022-09-10 21:24:34 INFO  View:14 - Status Search
+2022-09-10 21:24:34 INFO  Update:12 - Status Updated
+2022-09-10 21:25:22 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-10 21:25:26 INFO  arcteryxWarrantyMenu:25 - AdminSelected
+2022-09-10 21:25:27 INFO  Admin:13 - Admin Login
+2022-09-10 21:25:42 INFO  View:14 - Status Search
+2022-09-10 21:25:42 INFO  Update:12 - Status Updated
+2022-09-10 21:28:15 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-10 21:28:33 INFO  arcteryxWarrantyMenu:25 - AdminSelected
+2022-09-10 21:28:34 INFO  Admin:13 - Admin Login
+2022-09-10 21:28:44 INFO  View:14 - Status Search
+2022-09-10 21:28:44 INFO  Update:12 - Status Updated
+2022-09-10 21:31:25 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-10 21:31:29 INFO  arcteryxWarrantyMenu:25 - AdminSelected
+2022-09-10 21:31:30 INFO  Admin:13 - Admin Login
+2022-09-10 21:31:40 INFO  View:14 - Status Search
+2022-09-10 21:31:40 INFO  Update:12 - Status Updated
+2022-09-10 21:35:39 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-10 21:35:43 INFO  arcteryxWarrantyMenu:25 - AdminSelected
+2022-09-10 21:35:44 INFO  Admin:13 - Admin Login
+2022-09-10 21:35:52 INFO  View:14 - Status Search
+2022-09-10 21:35:52 INFO  Update:12 - Status Updated
+2022-09-10 21:36:26 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-10 21:36:31 INFO  arcteryxWarrantyMenu:25 - AdminSelected
+2022-09-10 21:36:31 INFO  Admin:13 - Admin Login
+2022-09-10 21:36:40 INFO  View:14 - Status Search
+2022-09-10 21:36:40 INFO  Update:12 - Status Updated
+2022-09-10 21:37:39 INFO  adminMenu:48 - Admin Logged Out
+2022-09-10 21:37:39 INFO  adminLoginMenu:33 - Admin Log In: admin
+2022-09-10 21:37:42 INFO  adminLoginMenu:37 - Admin Menu Exited
+2022-09-10 21:37:44 INFO  arcteryxWarrantyMenu:25 - ExitSelected
+2022-09-10 21:37:44 INFO  arcteryxWarrantyMenu:28 - App Exited
+2022-09-10 21:39:56 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-10 21:40:02 INFO  arcteryxWarrantyMenu:25 - CustomerSelected
+2022-09-10 21:40:02 INFO  Request:14 - New Warranty Created
+2022-09-10 21:40:02 INFO  Cancel:12 - Deleted Warranty
+2022-09-10 21:40:02 INFO  View:14 - Status Search
+2022-09-10 21:40:02 INFO  customerMenu:21 - Customer Menu Selected
+2022-09-10 21:41:05 INFO  customerMenu:30 - Customer Menu Exited
+2022-09-10 21:41:08 INFO  arcteryxWarrantyMenu:25 - ExitSelected
+2022-09-10 21:41:08 INFO  arcteryxWarrantyMenu:28 - App Exited
+2022-09-10 21:41:48 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-10 21:41:55 INFO  arcteryxWarrantyMenu:25 - CustomerSelected
+2022-09-10 21:41:56 INFO  Request:14 - New Warranty Created
+2022-09-10 21:41:56 INFO  Cancel:12 - Deleted Warranty
+2022-09-10 21:41:56 INFO  View:14 - Status Search
+2022-09-10 21:41:56 INFO  customerMenu:21 - Customer Menu Selected
+2022-09-10 21:42:05 INFO  customerMenu:30 - Customer Menu Exited
+2022-09-10 21:42:08 INFO  arcteryxWarrantyMenu:25 - ExitSelected
+2022-09-10 21:42:08 INFO  arcteryxWarrantyMenu:28 - App Exited
+2022-09-11 16:57:18 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-11 16:57:23 INFO  arcteryxWarrantyMenu:25 - AdminSelected
+2022-09-11 16:57:25 INFO  Admin:13 - Admin Login
+2022-09-11 16:57:34 INFO  View:14 - Status Search
+2022-09-11 16:57:34 INFO  Update:12 - Status Updated
+2022-09-11 16:57:46 INFO  adminMenu:48 - Admin Logged Out
+2022-09-11 16:57:46 INFO  adminLoginMenu:33 - Admin Log In: admin
+2022-09-11 16:57:49 INFO  adminLoginMenu:37 - Admin Menu Exited
+2022-09-11 16:57:51 INFO  arcteryxWarrantyMenu:25 - ExitSelected
+2022-09-11 16:57:51 INFO  arcteryxWarrantyMenu:28 - App Exited
+2022-09-11 17:21:10 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-11 17:21:19 INFO  arcteryxWarrantyMenu:25 - AdminSelected
+2022-09-11 17:21:20 INFO  Admin:13 - Admin Login
+2022-09-11 17:27:25 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-11 17:27:30 INFO  arcteryxWarrantyMenu:25 - AdminSelected
+2022-09-11 17:27:31 INFO  Admin:13 - Admin Login
+2022-09-11 17:45:58 INFO  arcteryxWarrantyMenu:15 - App Started
+2022-09-11 17:46:02 INFO  arcteryxWarrantyMenu:25 - AdminSelected
+2022-09-11 17:46:05 INFO  Admin:13 - Admin Login
+2022-09-11 17:48:28 INFO  arcteryxWarrantyMenu:14 - App Started
+2022-09-11 17:48:33 INFO  arcteryxWarrantyMenu:24 - AdminSelected
+2022-09-11 17:48:36 INFO  Admin:13 - Admin Login
+2022-09-11 17:48:45 INFO  adminMenu:12 - Admin Menu Opened
+2022-09-11 17:48:45 INFO  View:14 - Status Search
+2022-09-11 17:48:45 INFO  Update:12 - Status Updated
+2022-09-11 17:48:48 INFO  adminMenu:47 - Admin Logged Out
+2022-09-11 17:48:48 INFO  adminLoginMenu:32 - Admin Log In: admin
+2022-09-11 17:48:53 INFO  adminLoginMenu:36 - Admin Menu Exited
+2022-09-11 17:48:53 INFO  arcteryxWarrantyMenu:30 - Admin Chosen
+2022-09-11 17:48:55 INFO  arcteryxWarrantyMenu:24 - ExitSelected
+2022-09-11 17:48:55 INFO  arcteryxWarrantyMenu:27 - App Exited
