@@ -10,8 +10,8 @@ import java.util.List;
 public class ViewRepo {
     Connection conn = ConnectionUtil.getConnection();
 
-    public void getAllWarrantyInformation() {
-
+    public List<String> getAllWarrantyInformation() {
+        List<String> allWarranties = new ArrayList<>();
         try {
             Statement statement = conn.createStatement();
             ResultSet rs = statement.executeQuery("SELECT * FROM warrantyStatusLog");
@@ -25,19 +25,22 @@ public class ViewRepo {
                     String productIssue = rs.getString(
                             "productIssue");
                     String status = rs.getString("status");
-                    System.out.println("Name: " + customerName + " - Warranty Number: " + warrantyID + " - Brand: " + brand_name +
+                    String message =
+                            ("Name: " + customerName + " - Warranty Number: " + warrantyID + " - Brand: " + brand_name +
                             " - Gender: " + genderType +
                             " - Product Type: " + productType + " - Product Name: " + productName + " - Product Issue: " + productIssue +
                             " - " +
                             "Current " +
                             "Status:" +
                             " " + status);
+                    allWarranties.add(message);
                 }
         } catch (
                 SQLException e) {
             e.printStackTrace();
         }
 
+        return allWarranties;
     }
 
     public int getWarrantyIDFromWarrantyInfo(int customerID, int brandID, int productTypeID, String productIssue,

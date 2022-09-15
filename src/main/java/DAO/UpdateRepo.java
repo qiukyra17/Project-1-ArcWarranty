@@ -9,7 +9,7 @@ import java.sql.SQLException;
 public class UpdateRepo {
     Connection conn = ConnectionUtil.getConnection();
 
-    public void updateWarrantyInformation(String status, int warrantyNo) {
+    public String updateWarrantyInformation(String status, int warrantyNo) {
         try {
             PreparedStatement statement = conn.prepareStatement("UPDATE warrantyinformation SET status = ? WHERE " +
                     "warrantyid = ?;");
@@ -21,5 +21,6 @@ public class UpdateRepo {
             e.printStackTrace();
         }
 
+        return null;
     }
 }

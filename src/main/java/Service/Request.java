@@ -25,11 +25,12 @@ public class Request {
         }
     }
 
-    public warrantyInformation addWarrantyInformation(int customerID, int brandID, int genderID,
+    public warrantyInformation addWarrantyInformation(int customerID, int warrantyID, int brandID, int genderID,
                                                       int productTypeID, String productName,
                                                       String productIssue,
                                                       String status) {
-        warrantyInformation newWarrantyInformation = new warrantyInformation(customerID, brandID, genderID, productTypeID, productName, productIssue, status);
+        warrantyInformation newWarrantyInformation = new warrantyInformation(customerID, warrantyID, brandID, genderID,
+                productTypeID, productName, productIssue, status);
         rr.addWarrantyInformation(newWarrantyInformation);
         return newWarrantyInformation;
 

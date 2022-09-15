@@ -3,6 +3,7 @@ package Model;
 public class warrantyInformation {
 
     public int customerID;
+    public int warrantyID;
     public int brandID;
     public int genderID;
     public int productTypeID;
@@ -10,8 +11,12 @@ public class warrantyInformation {
     public String productIssue;
     public String status;
 
-    public warrantyInformation(int customerID, int brandID, int genderID, int productTypeID, String productName, String productIssue, String status) {
+    public warrantyInformation (){};
+    public warrantyInformation(int customerID, int warrantyID, int brandID, int genderID, int productTypeID,
+                               String productName,
+                               String productIssue, String status) {
         this.customerID = customerID;
+        this.warrantyID = warrantyID;
         this.brandID = brandID;
         this.genderID = genderID;
         this.productTypeID = productTypeID;
@@ -20,18 +25,6 @@ public class warrantyInformation {
         this.status = status;
     }
 
-    @Override
-    public String toString() {
-        return "warrantyInformation{" +
-                "customerID=" + customerID +
-                ", brandID=" + brandID +
-                ", genderID=" + genderID +
-                ", productTypeID=" + productTypeID +
-                ", productName='" + productName + '\'' +
-                ", productIssue='" + productIssue + '\'' +
-                ", status='" + status + '\'' +
-                '}';
-    }
 
     public int getCustomerID() {
         return customerID;
@@ -87,5 +80,13 @@ public class warrantyInformation {
 
     public void setStatus(String status) {
         this.status = status;
+    }
+
+    public int getWarrantyID() {
+        return warrantyID;
+    }
+
+    public void setWarrantyID(int warrantyID) {
+        this.warrantyID = warrantyID;
     }
 }

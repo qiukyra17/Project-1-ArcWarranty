@@ -462,3 +462,211 @@
 2022-09-11 17:45:58 INFO  arcteryxWarrantyMenu:15 - App Started
 2022-09-11 17:46:02 INFO  arcteryxWarrantyMenu:25 - AdminSelected
 2022-09-11 17:46:05 INFO  Admin:13 - Admin Login
+2022-09-11 17:48:28 INFO  arcteryxWarrantyMenu:14 - App Started
+2022-09-11 17:48:33 INFO  arcteryxWarrantyMenu:24 - AdminSelected
+2022-09-11 17:48:36 INFO  Admin:13 - Admin Login
+2022-09-11 17:48:45 INFO  adminMenu:12 - Admin Menu Opened
+2022-09-11 17:48:45 INFO  View:14 - Status Search
+2022-09-11 17:48:45 INFO  Update:12 - Status Updated
+2022-09-11 17:48:48 INFO  adminMenu:47 - Admin Logged Out
+2022-09-11 17:48:48 INFO  adminLoginMenu:32 - Admin Log In: admin
+2022-09-11 17:48:53 INFO  adminLoginMenu:36 - Admin Menu Exited
+2022-09-11 17:48:53 INFO  arcteryxWarrantyMenu:30 - Admin Chosen
+2022-09-11 17:48:55 INFO  arcteryxWarrantyMenu:24 - ExitSelected
+2022-09-11 17:48:55 INFO  arcteryxWarrantyMenu:27 - App Exited
+2022-09-11 18:11:11 INFO  Admin:13 - Admin Login
+2022-09-11 18:11:11 INFO  Cancel:12 - Deleted Warranty
+2022-09-11 18:11:11 INFO  Request:14 - New Warranty Created
+2022-09-11 18:11:11 INFO  Update:12 - Status Updated
+2022-09-11 18:11:11 INFO  View:12 - Status Search
+2022-09-11 18:12:15 INFO  Admin:13 - Admin Login
+2022-09-11 18:12:15 INFO  Cancel:12 - Deleted Warranty
+2022-09-11 18:12:15 INFO  Request:14 - New Warranty Created
+2022-09-11 18:12:15 INFO  Update:12 - Status Updated
+2022-09-11 18:12:15 INFO  View:12 - Status Search
+2022-09-11 21:50:00 INFO  Admin:13 - Admin Login
+2022-09-11 21:50:00 INFO  Cancel:12 - Deleted Warranty
+2022-09-11 21:50:00 INFO  Request:14 - New Warranty Created
+2022-09-11 21:50:00 INFO  Update:12 - Status Updated
+2022-09-11 21:50:00 INFO  View:12 - Status Search
+2022-09-11 21:50:43 INFO  Admin:13 - Admin Login
+2022-09-11 21:50:43 INFO  Cancel:12 - Deleted Warranty
+2022-09-11 21:50:43 INFO  Request:14 - New Warranty Created
+2022-09-11 21:50:43 INFO  Update:12 - Status Updated
+2022-09-11 21:50:43 INFO  View:12 - Status Search
+2022-09-11 21:51:25 INFO  Admin:13 - Admin Login
+2022-09-11 21:51:25 INFO  Cancel:12 - Deleted Warranty
+2022-09-11 21:51:25 INFO  Request:14 - New Warranty Created
+2022-09-11 21:51:25 INFO  Update:12 - Status Updated
+2022-09-11 21:51:25 INFO  View:12 - Status Search
+2022-09-11 21:54:18 INFO  Admin:13 - Admin Login
+2022-09-11 21:54:18 INFO  Cancel:12 - Deleted Warranty
+2022-09-11 21:54:18 INFO  Request:14 - New Warranty Created
+2022-09-11 21:54:18 INFO  Update:12 - Status Updated
+2022-09-11 21:54:18 INFO  View:14 - Status Search
+2022-09-11 22:00:58 INFO  Admin:13 - Admin Login
+2022-09-11 22:00:58 INFO  Cancel:12 - Deleted Warranty
+2022-09-11 22:00:58 INFO  Request:14 - New Warranty Created
+2022-09-11 22:00:58 INFO  Update:12 - Status Updated
+2022-09-11 22:00:58 INFO  View:14 - Status Search
+2022-09-11 22:03:13 INFO  Admin:13 - Admin Login
+2022-09-11 22:03:13 INFO  Cancel:12 - Deleted Warranty
+2022-09-11 22:03:13 INFO  Request:14 - New Warranty Created
+2022-09-11 22:03:13 INFO  Update:12 - Status Updated
+2022-09-11 22:03:13 INFO  View:14 - Status Search
+2022-09-11 22:04:22 INFO  Admin:13 - Admin Login
+2022-09-11 22:04:22 INFO  Cancel:12 - Deleted Warranty
+2022-09-11 22:04:22 INFO  Request:14 - New Warranty Created
+2022-09-11 22:04:22 INFO  Update:12 - Status Updated
+2022-09-11 22:04:22 INFO  View:14 - Status Search
+2022-09-11 22:04:56 INFO  Admin:13 - Admin Login
+2022-09-11 22:04:56 INFO  Cancel:12 - Deleted Warranty
+2022-09-11 22:04:56 INFO  Request:14 - New Warranty Created
+2022-09-11 22:04:56 INFO  Update:12 - Status Updated
+2022-09-11 22:04:56 INFO  View:14 - Status Search
+2022-09-11 22:05:45 INFO  Admin:13 - Admin Login
+2022-09-11 22:05:45 INFO  Cancel:12 - Deleted Warranty
+2022-09-11 22:05:45 INFO  Request:14 - New Warranty Created
+2022-09-11 22:05:45 INFO  Update:12 - Status Updated
+2022-09-11 22:05:45 INFO  View:14 - Status Search
+2022-09-12 16:55:22 INFO  Admin:13 - Admin Login
+2022-09-12 16:55:22 INFO  Cancel:12 - Deleted Warranty
+2022-09-12 16:55:22 INFO  Request:14 - New Warranty Created
+2022-09-12 16:55:22 INFO  Update:12 - Status Updated
+2022-09-12 16:55:22 INFO  View:14 - Status Search
+2022-09-12 17:03:40 INFO  Admin:13 - Admin Login
+2022-09-12 17:03:40 INFO  Cancel:12 - Deleted Warranty
+2022-09-12 17:03:40 INFO  Request:14 - New Warranty Created
+2022-09-12 17:03:40 INFO  Update:12 - Status Updated
+2022-09-12 17:03:40 INFO  View:14 - Status Search
+2022-09-12 17:17:58 INFO  Admin:13 - Admin Login
+2022-09-12 17:17:58 INFO  Cancel:12 - Deleted Warranty
+2022-09-12 17:17:58 INFO  Request:14 - New Warranty Created
+2022-09-12 17:17:58 INFO  Update:12 - Status Updated
+2022-09-12 17:17:58 INFO  View:14 - Status Search
+2022-09-12 17:30:48 INFO  Admin:13 - Admin Login
+2022-09-12 17:30:48 INFO  Cancel:12 - Deleted Warranty
+2022-09-12 17:30:48 INFO  Request:14 - New Warranty Created
+2022-09-12 17:30:48 INFO  Update:12 - Status Updated
+2022-09-12 17:30:48 INFO  View:14 - Status Search
+2022-09-12 17:42:28 INFO  Admin:13 - Admin Login
+2022-09-12 17:42:28 INFO  Cancel:12 - Deleted Warranty
+2022-09-12 17:42:28 INFO  Request:14 - New Warranty Created
+2022-09-12 17:42:28 INFO  Update:12 - Status Updated
+2022-09-12 17:42:28 INFO  View:14 - Status Search
+2022-09-12 17:44:25 INFO  Admin:13 - Admin Login
+2022-09-12 17:44:25 INFO  Cancel:12 - Deleted Warranty
+2022-09-12 17:44:25 INFO  Request:14 - New Warranty Created
+2022-09-12 17:44:25 INFO  Update:12 - Status Updated
+2022-09-12 17:44:25 INFO  View:14 - Status Search
+2022-09-12 17:46:35 INFO  Admin:13 - Admin Login
+2022-09-12 17:46:35 INFO  Cancel:12 - Deleted Warranty
+2022-09-12 17:46:35 INFO  Request:14 - New Warranty Created
+2022-09-12 17:46:35 INFO  Update:12 - Status Updated
+2022-09-12 17:46:35 INFO  View:14 - Status Search
+2022-09-14 11:14:43 INFO  Admin:13 - Admin Login
+2022-09-14 11:15:13 INFO  Cancel:12 - Deleted Warranty
+2022-09-14 11:15:42 INFO  Request:14 - New Warranty Created
+2022-09-14 11:16:11 INFO  Update:12 - Status Updated
+2022-09-14 11:16:40 INFO  View:14 - Status Search
+2022-09-14 17:02:55 INFO  Admin:13 - Admin Login
+2022-09-14 17:03:02 INFO  Admin:13 - Admin Login
+2022-09-14 17:03:02 INFO  Cancel:12 - Deleted Warranty
+2022-09-14 17:03:02 INFO  Request:14 - New Warranty Created
+2022-09-14 17:03:02 INFO  Update:12 - Status Updated
+2022-09-14 17:03:02 INFO  View:14 - Status Search
+2022-09-14 17:03:27 INFO  Admin:13 - Admin Login
+2022-09-14 17:03:27 INFO  Cancel:12 - Deleted Warranty
+2022-09-14 17:03:27 INFO  Request:14 - New Warranty Created
+2022-09-14 17:03:27 INFO  Update:12 - Status Updated
+2022-09-14 17:03:27 INFO  View:14 - Status Search
+2022-09-14 17:04:28 INFO  Admin:13 - Admin Login
+2022-09-14 17:04:28 INFO  Cancel:12 - Deleted Warranty
+2022-09-14 17:04:28 INFO  Request:14 - New Warranty Created
+2022-09-14 17:04:28 INFO  Update:12 - Status Updated
+2022-09-14 17:04:28 INFO  View:14 - Status Search
+2022-09-14 17:07:35 INFO  Admin:13 - Admin Login
+2022-09-14 17:07:35 INFO  Cancel:12 - Deleted Warranty
+2022-09-14 17:07:35 INFO  Request:14 - New Warranty Created
+2022-09-14 17:07:35 INFO  Update:12 - Status Updated
+2022-09-14 17:07:35 INFO  View:14 - Status Search
+2022-09-14 17:11:37 INFO  Admin:13 - Admin Login
+2022-09-14 17:11:37 INFO  Cancel:12 - Deleted Warranty
+2022-09-14 17:11:37 INFO  Request:14 - New Warranty Created
+2022-09-14 17:11:37 INFO  Update:12 - Status Updated
+2022-09-14 17:11:37 INFO  View:14 - Status Search
+2022-09-14 17:12:26 INFO  Admin:13 - Admin Login
+2022-09-14 17:12:26 INFO  Cancel:12 - Deleted Warranty
+2022-09-14 17:12:26 INFO  Request:14 - New Warranty Created
+2022-09-14 17:12:26 INFO  Update:12 - Status Updated
+2022-09-14 17:12:26 INFO  View:14 - Status Search
+2022-09-14 17:15:07 INFO  Admin:13 - Admin Login
+2022-09-14 17:15:07 INFO  Cancel:12 - Deleted Warranty
+2022-09-14 17:15:07 INFO  Request:14 - New Warranty Created
+2022-09-14 17:15:07 INFO  Update:12 - Status Updated
+2022-09-14 17:15:07 INFO  View:14 - Status Search
+2022-09-14 17:15:21 INFO  Admin:13 - Admin Login
+2022-09-14 17:15:21 INFO  Cancel:12 - Deleted Warranty
+2022-09-14 17:15:21 INFO  Request:14 - New Warranty Created
+2022-09-14 17:15:21 INFO  Update:12 - Status Updated
+2022-09-14 17:15:21 INFO  View:14 - Status Search
+2022-09-14 17:16:17 INFO  Admin:13 - Admin Login
+2022-09-14 17:16:17 INFO  Cancel:12 - Deleted Warranty
+2022-09-14 17:16:17 INFO  Request:14 - New Warranty Created
+2022-09-14 17:16:17 INFO  Update:12 - Status Updated
+2022-09-14 17:16:17 INFO  View:14 - Status Search
+2022-09-14 17:18:04 INFO  Admin:13 - Admin Login
+2022-09-14 17:18:04 INFO  Cancel:12 - Deleted Warranty
+2022-09-14 17:18:04 INFO  Request:14 - New Warranty Created
+2022-09-14 17:18:04 INFO  Update:12 - Status Updated
+2022-09-14 17:18:04 INFO  View:14 - Status Search
+2022-09-14 17:28:17 INFO  Admin:13 - Admin Login
+2022-09-14 17:28:17 INFO  Cancel:12 - Deleted Warranty
+2022-09-14 17:28:17 INFO  Request:14 - New Warranty Created
+2022-09-14 17:28:17 INFO  Update:12 - Status Updated
+2022-09-14 17:28:17 INFO  View:14 - Status Search
+2022-09-14 17:49:49 INFO  Admin:13 - Admin Login
+2022-09-14 17:49:49 INFO  Cancel:12 - Deleted Warranty
+2022-09-14 17:49:49 INFO  Request:14 - New Warranty Created
+2022-09-14 17:49:49 INFO  Update:12 - Status Updated
+2022-09-14 17:49:49 INFO  View:14 - Status Search
+2022-09-14 17:52:34 INFO  Admin:13 - Admin Login
+2022-09-14 17:52:34 INFO  Cancel:12 - Deleted Warranty
+2022-09-14 17:52:34 INFO  Request:14 - New Warranty Created
+2022-09-14 17:52:34 INFO  Update:12 - Status Updated
+2022-09-14 17:52:34 INFO  View:14 - Status Search
+2022-09-14 17:56:04 INFO  Admin:13 - Admin Login
+2022-09-14 17:56:04 INFO  Cancel:12 - Deleted Warranty
+2022-09-14 17:56:04 INFO  Request:14 - New Warranty Created
+2022-09-14 17:56:04 INFO  Update:12 - Status Updated
+2022-09-14 17:56:04 INFO  View:14 - Status Search
+2022-09-14 17:58:27 INFO  Admin:13 - Admin Login
+2022-09-14 17:58:27 INFO  Cancel:12 - Deleted Warranty
+2022-09-14 17:58:27 INFO  Request:14 - New Warranty Created
+2022-09-14 17:58:27 INFO  Update:12 - Status Updated
+2022-09-14 17:58:27 INFO  View:14 - Status Search
+2022-09-14 18:44:07 INFO  Admin:13 - Admin Login
+2022-09-14 18:44:07 INFO  Cancel:12 - Deleted Warranty
+2022-09-14 18:44:07 INFO  Request:14 - New Warranty Created
+2022-09-14 18:44:07 INFO  Update:12 - Status Updated
+2022-09-14 18:44:07 INFO  View:14 - Status Search
+2022-09-14 20:08:42 INFO  Admin:13 - Admin Login
+2022-09-14 20:08:42 INFO  Cancel:12 - Deleted Warranty
+2022-09-14 20:08:42 INFO  Request:14 - New Warranty Created
+2022-09-14 20:08:42 INFO  Update:12 - Status Updated
+2022-09-14 20:08:42 INFO  View:14 - Status Search
+2022-09-14 20:41:51 INFO  Admin:13 - Admin Login
+2022-09-14 20:41:51 INFO  Cancel:12 - Deleted Warranty
+2022-09-14 20:41:51 INFO  Request:14 - New Warranty Created
+2022-09-14 20:41:51 INFO  Update:12 - Status Updated
+2022-09-14 20:41:51 INFO  View:14 - Status Search
+2022-09-14 20:44:38 INFO  Admin:13 - Admin Login
+2022-09-14 20:44:38 INFO  Cancel:12 - Deleted Warranty
+2022-09-14 20:44:38 INFO  Request:14 - New Warranty Created
+2022-09-14 20:44:38 INFO  Update:12 - Status Updated
+2022-09-14 20:44:38 INFO  View:14 - Status Search
+2022-09-14 20:48:35 INFO  Admin:13 - Admin Login
+2022-09-14 20:48:35 INFO  Cancel:12 - Deleted Warranty
+2022-09-14 20:48:35 INFO  Request:14 - New Warranty Created
+2022-09-14 20:48:35 INFO  Update:12 - Status Updated
+2022-09-14 20:48:35 INFO  View:14 - Status Search

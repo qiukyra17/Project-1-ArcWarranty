@@ -5,6 +5,8 @@ public class customerInformation {
     public String email;
     public String phone;
 
+    public customerInformation(){};
+
     public customerInformation(String name, String email, String phone) {
         this.name = name;
         this.email = email;

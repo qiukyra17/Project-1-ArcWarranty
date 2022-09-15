@@ -14,8 +14,8 @@ public class View {
         logger.info("Status Search");
     }
 
-    public void getAllWarrantyInformation (){
-            vr.getAllWarrantyInformation();
+    public List<String> getAllWarrantyInformation (){
+            return vr.getAllWarrantyInformation();
     }
     public int getWarrantyIDFromWarrantyInfo(int customerID, int brandID, int productTypeID, String productIssue,
                                              String status) {

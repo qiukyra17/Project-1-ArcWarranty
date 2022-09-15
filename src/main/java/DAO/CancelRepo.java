@@ -10,7 +10,7 @@ public class CancelRepo {
     Connection conn = ConnectionUtil.getConnection();
 
     //instructions to Cancel your Request
-    public void deleteWarrantyRequestByWarrantyNo(int warrantyNo) {
+        public boolean deleteWarrantyRequestByWarrantyNo(int warrantyNo) {
         try {
             PreparedStatement statement = conn.prepareStatement("Delete from WarrantyInformation where " +
                     "warrantyID=?");
@@ -20,6 +20,6 @@ public class CancelRepo {
         } catch (SQLException e) {
             e.printStackTrace();
         }
-
-    }
+            return true;
+        }
 }
