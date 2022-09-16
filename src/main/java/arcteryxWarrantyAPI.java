@@ -17,42 +17,65 @@ public class arcteryxWarrantyAPI {
         Javalin app = Javalin.create(JavalinConfig::enableCorsForAllOrigins);
         app.start(7000);
 
-        // lets this running down the service classes - make sure your CRUD transfers and shows
+        //NEW
+        //GET WARRANTY
+        app.get("/warranty/all", ctx -> {
+            ctx.json(v.getAllWarranty());
+        });
 
-        //ALL COMPONENTS
-        //View All Warranties - ADMIN
-        app.get("/warranty/viewall", ctx -> {
-            ctx.json(v.getAllWarrantyInformation());});
-        //STATUS CHECK - Search via Warranty ID - ADMIN + CUSTOMER
-        app.get("/warranty/search/{warrantyno}", ctx -> {
-            ctx.json(v.getAllWarrantyInfoByWarrantyNo(Integer.parseInt(ctx.pathParam("warrantyno"))));
+        //GET CUSTOMER NAME FROM ID
+        app.get("/customer/{customerid}", ctx -> {
+            ctx.json(v.getCustomerNameFromID(Integer.parseInt(ctx.pathParam("customerid"))));
+        });
+
+        //GET BRAND NAME FROM ID
+        app.get("/brand/name/{brandid}", ctx -> {
+            ctx.json(v.getBrandNameFromID(Integer.parseInt(ctx.pathParam("brandid"))));
+        });
+
+        //GET GENDER FROM ID
+        app.get("gender/{genderID}", ctx -> {
+            ctx.json(v.getGenderFromID(Integer.parseInt(ctx.pathParam("genderID"))));
+        });
+
+        //GET PRODUCT TYPE FROM ID
+        app.get("product_type/{productTypeID}", ctx -> {
+            ctx.json((v.getProductTypeFromID((Integer.parseInt(ctx.pathParam("productTypeID"))))));
+        });
+
+
+        //NEW LOOK UP
+        app.get("/warranty/search/{id}",ctx -> {
+            String intake = ctx.pathParam("id");
+            System.out.println(intake);
+            ctx.json(v.getWarrantyFromWarrantyNo(Integer.parseInt(ctx.pathParam("id"))));
         });
 
         //Update via Warranty ID - ADMIN
         app.patch("/warranty/update/", ctx -> {
             ObjectMapper mapper = new ObjectMapper();
             warrantyInformation updateWarranty = mapper.readValue(ctx.body(), warrantyInformation.class);
-            u.updateWarrantyInformation(updateWarranty.getStatus(),updateWarranty.getWarrantyID());
+            u.updateWarrantyInformation(updateWarranty.getStatus(), updateWarranty.getWarrantyID());
         });
 
         //REQUEST Warranty - CUSTOMER
         app.post("/warranty/request/customer", ctx -> {
             ObjectMapper mapper = new ObjectMapper();
-            customerInformation customer = mapper.readValue(ctx.body(),customerInformation.class);
-            r.addCustomerInformation(customer.getName(),customer.getEmail(),customer.getPhone());
+            customerInformation customer = mapper.readValue(ctx.body(), customerInformation.class);
+            r.addCustomerInformation(customer.getId(), customer.getName(), customer.getEmail(), customer.getPhone());
         });
 
         //GET CUSTOMER ID FOR WARRANTY
-        app.get("/customer/{email}",ctx -> {
+        app.get("/customer/search/{email}", ctx -> {
             ctx.json(r.getCustomerIdByEmail(ctx.pathParam("email")));
         });
 
         //REQUEST - PRODUCT INFO
-        app.post("/warranty/request/newWarranty", ctx -> {
+        app.post("/warranty/request/", ctx -> {
             ObjectMapper mapper = new ObjectMapper();
-            warrantyInformation newWarranty = mapper.readValue(ctx.body(),warrantyInformation.class);
-            r.addWarrantyInformation(newWarranty.getCustomerID(),newWarranty.getWarrantyID(),newWarranty.getBrandID()
-                    ,newWarranty.getGenderID(),newWarranty.getProductTypeID(),newWarranty.getProductName(),
+            warrantyInformation newWarranty = mapper.readValue(ctx.body(), warrantyInformation.class);
+            r.addWarrantyInformation(newWarranty.getCustomerID(), newWarranty.getWarrantyID(), newWarranty.getBrandID()
+                    , newWarranty.getGenderID(), newWarranty.getProductTypeID(), newWarranty.getProductName(),
                     newWarranty.getProductIssue(), newWarranty.getStatus());
         });
 

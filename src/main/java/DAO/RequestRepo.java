@@ -34,7 +34,8 @@ public class RequestRepo {
             statement.setString(1, email);
             ResultSet rs = statement.executeQuery();
             while (rs.next()) {
-                customerInformation ci = new customerInformation(rs.getString("name"), rs.getString("email"),
+                customerInformation ci = new customerInformation(rs.getInt("id"),rs.getString("name"), rs.getString(
+                        "email"),
                         rs.getString("phone"));
                 return ci;
             }

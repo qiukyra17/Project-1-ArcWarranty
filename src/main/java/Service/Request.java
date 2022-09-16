@@ -14,10 +14,10 @@ public class Request {
         logger.info("New Warranty Created");
     }
 
-    public void addCustomerInformation(String name, String email, String phone) {
+    public void addCustomerInformation(int id, String name, String email, String phone) {
         customerInformation exisitingInformation = rr.getCustomerByEmail(email);
         if (exisitingInformation == null) {
-            customerInformation newCustomerInformation = new customerInformation(name, email, phone);
+            customerInformation newCustomerInformation = new customerInformation(id, name, email, phone);
             rr.addCustomerInformation(newCustomerInformation);
         } else {
 
