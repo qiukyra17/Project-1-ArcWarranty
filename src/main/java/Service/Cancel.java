@@ -12,7 +12,7 @@ public class Cancel {
         logger.info("Deleted Warranty");
     }
 
-    public void deleteWarrantyInformation(int warrantyNo) {
-        cr.deleteWarrantyRequestByWarrantyNo(warrantyNo);
+    public boolean deleteWarrantyInformation(int warrantyNo) {
+        return cr.deleteWarrantyRequestByWarrantyNo(warrantyNo);
     }
 }

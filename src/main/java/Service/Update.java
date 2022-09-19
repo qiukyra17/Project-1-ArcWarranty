@@ -12,7 +12,8 @@ public class Update {
         logger.info("Status Updated");
     }
 
-    public void updateWarrantyInformation(String status,int warrantyNo){
-        ur.updateWarrantyInformation(status,warrantyNo);
+    public String updateWarrantyInformation(String status,int warrantyNo){
+       return ur.updateWarrantyInformation(status,warrantyNo);
+
     }
 }

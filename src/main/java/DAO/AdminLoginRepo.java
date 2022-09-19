@@ -1,14 +1,51 @@
 package DAO;
 
+import Model.AdminInformation;
 import Util.ConnectionUtil;
 
 import java.sql.*;
+import java.util.ArrayList;
+import java.util.List;
 
 public class AdminLoginRepo {
-    //Need to look up username psw from username
     Connection conn = ConnectionUtil.getConnection();
 
-   // this generates the user password
+
+    //FOR LOGIN - JS
+    public List<AdminInformation> getLoginInfo(String userName, String password){
+        List<AdminInformation> allLogins = new ArrayList<>();
+        try{
+            Statement statement = conn.createStatement();
+            ResultSet rs = statement.executeQuery("SELECT * FROM adminInformation");
+            while (rs.next()){
+                AdminInformation loadLogin = new AdminInformation(rs.getString(userName), rs.getString(password));
+                allLogins.add(loadLogin);
+            }
+        } catch(SQLException e){
+            e.printStackTrace();
+        }
+        return allLogins;
+    }
+
+    //  WE USED THIS ONE
+        public AdminInformation getUserByUsername(String userName){
+
+        try{
+            PreparedStatement statement = conn.prepareStatement("SELECT * FROM adminInformation WHERE userName = ?");
+            statement.setString(1, userName);
+            ResultSet rs = statement.executeQuery();
+            while (rs.next()){
+                return new AdminInformation(rs.getString("userName"), rs.getString("userPassword"));
+            }
+        } catch(SQLException e){
+            e.printStackTrace();
+        }
+        return null;
+    }
+
+
+
+   // THIS WAS USED FOR PROJECT 0
     public String getUserPswByUserName(String userName) {
         try {
             PreparedStatement statement = conn.prepareStatement("SELECT userPassword FROM adminInformation WHERE " +
@@ -25,35 +62,6 @@ public class AdminLoginRepo {
         return null;
     }
 
-//    public String getUserNameByUserPsw(String userPassword) {
-//        try {
-//            PreparedStatement statement = conn.prepareStatement("SELECT userName FROM adminInformation WHERE " +
-//                    "userPassword = ?");
-//            statement.setString(1, userPassword);
-//            ResultSet rs = statement.executeQuery();
-//            while (rs.next()) {
-//                String userName = rs.getString("userName");
-//                return userName;
-//            }
-//        } catch (SQLException e) {
-//            e.printStackTrace();
-//        }
-//        return null;
-//    }
 
-    public boolean checkLogin(String userName, String userPassword){
-        try{
-            PreparedStatement statement = conn.prepareStatement("SELECT * FROM adminInformation WHERE userName=? AND " +
-                    "userPassword = ?");
-            statement.setString(1,userName);
-            statement.setString(2,userPassword);
-            ResultSet rs = statement.executeQuery();
-            if (rs.next()){
-                return true;
-            } else return false;
-        } catch (SQLException e){
-            e.printStackTrace();
-        }
-        return false;
-    }
+
 }
