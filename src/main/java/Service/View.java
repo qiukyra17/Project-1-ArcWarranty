@@ -30,28 +30,32 @@ public class View {
 
 
     //NEW - ALL TO GET WARRANTY TO LOOK PRESENTABLE
-    public List<warrantyInformation> getAllWarranty() {
+    public List<WarrantyInformation> getAllWarranty() {
        return  vr.getAllWarranty();
     }
 
     //LOOK UP
-    public List<warrantyInformation> getWarrantyFromWarrantyNo(int warrantyID){
+    public List<WarrantyInformation> getWarrantyFromWarrantyNo(int warrantyID){
         return vr.getWarrantyFromWarrantyNo(warrantyID);
     }
 
-    public customerInformation getCustomerNameFromID(int customerID){
+    public CustomerInformation getCustomerNameFromID(int customerID){
         return vr.getCustomerNameFromID(customerID);
     }
 
-    public brand getBrandNameFromID(int brandID){
+    public Brand getBrandNameFromID(int brandID){
         return vr.getBrandNameFromID(brandID);
     }
 
-    public gender getGenderFromID(int genderID){
+    public Gender getGenderFromID(int genderID){
         return vr.getGenderFromID(genderID);
     }
 
-    public productType getProductTypeFromID (int productTypeID){
+    public ProductType getProductTypeFromID (int productTypeID){
         return vr.getProductTypeFromID(productTypeID);
     }
+
+//    public WarrantyInformation getWarrantyNo(){
+//        return vr.getWarrantyNo();
+//    }
 }

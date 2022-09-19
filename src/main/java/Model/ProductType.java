@@ -1,10 +1,10 @@
 package Model;
 
-public class productType {
+public class ProductType {
     public int id;
     public String productType;
 
-    public productType(int id, String productType) {
+    public ProductType(int id, String productType) {
         this.id = id;
         this.productType = productType;
     }

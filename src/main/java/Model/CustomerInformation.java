@@ -1,14 +1,14 @@
 package Model;
 
-public class customerInformation {
+public class CustomerInformation {
     public int id;
     public String name;
     public String email;
     public String phone;
 
-    public customerInformation(){};
+    public CustomerInformation(){};
 
-    public customerInformation(int id, String name, String email, String phone) {
+    public CustomerInformation(int id, String name, String email, String phone) {
         this.id = id;
         this.name = name;
         this.email = email;

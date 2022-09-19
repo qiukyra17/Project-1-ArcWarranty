@@ -1,10 +1,15 @@
 package Service;
 
 import DAO.AdminLoginRepo;
-
+import DTO.LoginRequest;
+import Model.AdminInformation;
+import Util.HashPsw;
+import io.javalin.http.HttpCode;
 import org.apache.log4j.Logger;
 
-public class Admin {
+import java.util.List;
+
+public class Admin implements AdminService {
     AdminLoginRepo ar;
 
     public Admin() {
@@ -13,11 +18,21 @@ public class Admin {
         logger.info("Admin Login");
     }
 
-//    public String getUserNameByUserPsw(String userPassword){
-//        return ar.getUserNameByUserPsw(userPassword);
-//    }
-    public String getUserPswByUserName(String userName) {
-        return ar.getUserPswByUserName(userName);
+    @Override
+    public List<AdminInformation> getLoginInfo(String userName, String password) {
+        return ar.getLoginInfo(userName, password);
+    }
+
+    @Override
+    public HttpCode validateLogin(LoginRequest loginRequest) {
+        AdminInformation userFromDB = ar.getUserByUsername(loginRequest.userName());
+        if(userFromDB == null){
+            return HttpCode.BAD_REQUEST;
+        }
+        if(!HashPsw.verifyPassword(loginRequest.userPassword(), userFromDB.getUserPassword())){
+            return HttpCode.UNAUTHORIZED;
+        }
+        return HttpCode.ACCEPTED;
     }
 
 }

@@ -1,10 +1,10 @@
 package Model;
 
-public class brand {
+public class Brand {
     public int id;
     public String brand_id;
 
-    public brand(int id, String brand_id) {
+    public Brand(int id, String brand_id) {
         this.id = id;
         this.brand_id = brand_id;
     }

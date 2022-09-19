@@ -1,6 +1,6 @@
 package Model;
 
-public class warrantyInformation {
+public class WarrantyInformation {
 
     public int customerID;
     public int warrantyID;
@@ -11,8 +11,8 @@ public class warrantyInformation {
     public String productIssue;
     public String status;
 
-    public warrantyInformation (){};
-    public warrantyInformation(int customerID, int warrantyID, int brandID, int genderID, int productTypeID,
+    public WarrantyInformation(){};
+    public WarrantyInformation(int customerID, int warrantyID, int brandID, int genderID, int productTypeID,
                                String productName,
                                String productIssue, String status) {
         this.customerID = customerID;

@@ -1,10 +1,7 @@
 package Model;
 
-public class adminInformation {
-    public String userName;
-    public String userPassword;
-
-    public adminInformation(String userName, String userPassword) {
+public class AdminInformation {
+    public AdminInformation(String userName, String userPassword) {
         this.userName = userName;
         this.userPassword = userPassword;
     }
@@ -24,4 +21,7 @@ public class adminInformation {
     public void setUserPassword(String userPassword) {
         this.userPassword = userPassword;
     }
+
+    private String userName;
+    private String userPassword;
 }

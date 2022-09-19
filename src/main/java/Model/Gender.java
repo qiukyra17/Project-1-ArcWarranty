@@ -1,10 +1,10 @@
 package Model;
 
-public class gender {
+public class Gender {
     public int id;
     public String gender;
 
-    public gender(int id, String gender) {
+    public Gender(int id, String gender) {
         this.id = id;
         this.gender = gender;
     }
