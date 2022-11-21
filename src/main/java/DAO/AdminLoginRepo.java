@@ -8,14 +8,14 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class AdminLoginRepo {
-    Connection conn = ConnectionUtil.getConnection();
+    Connection connection = ConnectionUtil.getConnection();
 
 
     //FOR LOGIN - JS
     public List<AdminInformation> getLoginInfo(String userName, String password){
         List<AdminInformation> allLogins = new ArrayList<>();
         try{
-            Statement statement = conn.createStatement();
+            Statement statement = connection.createStatement();
             ResultSet rs = statement.executeQuery("SELECT * FROM adminInformation");
             while (rs.next()){
                 AdminInformation loadLogin = new AdminInformation(rs.getString(userName), rs.getString(password));
@@ -31,7 +31,7 @@ public class AdminLoginRepo {
         public AdminInformation getUserByUsername(String userName){
 
         try{
-            PreparedStatement statement = conn.prepareStatement("SELECT * FROM adminInformation WHERE userName = ?");
+            PreparedStatement statement = connection.prepareStatement("SELECT * FROM adminInformation WHERE userName = ?");
             statement.setString(1, userName);
             ResultSet rs = statement.executeQuery();
             while (rs.next()){
@@ -46,21 +46,21 @@ public class AdminLoginRepo {
 
 
    // THIS WAS USED FOR PROJECT 0
-    public String getUserPswByUserName(String userName) {
-        try {
-            PreparedStatement statement = conn.prepareStatement("SELECT userPassword FROM adminInformation WHERE " +
-                    "userName = ?");
-            statement.setString(1, userName);
-            ResultSet rs = statement.executeQuery();
-            while (rs.next()) {
-                String userPassword = rs.getString("userPassword");
-                return userPassword;
-            }
-        } catch (SQLException e) {
-            e.printStackTrace();
-        }
-        return null;
-    }
+//    public String getUserPswByUserName(String userName) {
+//        try {
+//            PreparedStatement statement = conn.prepareStatement("SELECT userPassword FROM adminInformation WHERE " +
+//                    "userName = ?");
+//            statement.setString(1, userName);
+//            ResultSet rs = statement.executeQuery();
+//            while (rs.next()) {
+//                String userPassword = rs.getString("userPassword");
+//                return userPassword;
+//            }
+//        } catch (SQLException e) {
+//            e.printStackTrace();
+//        }
+//        return null;
+//    }
 
 
 

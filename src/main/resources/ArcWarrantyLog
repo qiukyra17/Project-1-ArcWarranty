@@ -1255,3 +1255,16 @@
 2022-09-18 21:45:24 INFO  Request:15 - New Warranty Created
 2022-09-18 21:45:24 INFO  Update:12 - Status Updated
 2022-09-18 21:45:24 INFO  View:15 - Status Search
+2022-09-19 09:05:16 INFO  Admin:18 - Admin Login
+2022-09-19 09:05:16 INFO  Cancel:12 - Deleted Warranty
+2022-09-19 09:05:16 INFO  Request:15 - New Warranty Created
+2022-09-19 09:05:16 INFO  Update:12 - Status Updated
+2022-09-19 09:05:16 INFO  View:15 - Status Search
+2022-09-19 09:48:43 INFO  Admin:18 - Admin Login
+2022-09-19 11:24:53 INFO  Admin:18 - Admin Login
+2022-09-19 11:25:00 INFO  Admin:18 - Admin Login
+2022-10-01 14:03:33 INFO  Admin:18 - Admin Login
+2022-10-01 14:04:03 INFO  Cancel:12 - Deleted Warranty
+2022-10-01 14:04:33 INFO  Request:15 - New Warranty Created
+2022-10-01 14:05:03 INFO  Update:12 - Status Updated
+2022-10-01 14:05:33 INFO  View:15 - Status Search
